@@ -43,6 +43,7 @@
     "style"
   ],
   "dependencies": {
+    "bluebird": "^2.9.4",
     "chalk": "^0.5.1",
     "cross-spawn": "^0.2.3",
     "gaze": "^0.5.1",
